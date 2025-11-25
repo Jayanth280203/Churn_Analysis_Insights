@@ -56,3 +56,30 @@ After running the scripts, you will find the following output files:
 
 ## Key Insights
 The model identifies key drivers of churn such as **Payment Delay**, **Support Calls**, and **Total Spend**. The generated dashboard data allows for targeted intervention strategies based on customer risk profiles.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are always welcome!
+Feel free to fork this repo and submit a pull request.
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
+## 📬 Contact
+
+Feel free to connect with me via the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanthrajan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayanth280203)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jayanth_.r_)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanthr239@gmail.com)
+
+
+🧠 *Author*
+
+Jayanth R
+Data Science Postgraduate | Data Analyst | Python Enthusiast
+📍 Thanjavur, Tamil Nadu, India
+
+⭐ If you found this project useful, don’t forget to star the repository!
